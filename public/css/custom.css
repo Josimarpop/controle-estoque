@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07/10/2016, 01:45:49
+    Author     : Jonatas
+*/
+
+nav.navbar.navbar-default{
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+nav.navbar.navbar-default a {
+    color: white;
+}
+li p.navbar-text, a.navbar-brand {
+    color: white!important ;
+    font-weight: bolder;
+}
+footer.footer {
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin-top: 55px;
+    color: white;
+    border-radius: 5px;
+}
+footer.footer p {
+    padding: 10px;
+}
